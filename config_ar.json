@@ -50,10 +50,7 @@
       "backgroundColor": "32ffffff",
       "usePrimaryColor": true,
       "enableBackground": false,
-      "backgroundGradientColor": [
-        "#fffce4ec",
-        "#ffe0f7fa"
-      ]
+      "backgroundGradientColor": ["#fffce4ec", "#ffe0f7fa"]
     },
     {
       "fit": "fitWidth",
@@ -182,10 +179,7 @@
       "marginX": 0,
       "marginY": 0,
       "spacing": 12,
-      "itemSize": {
-        "width": 70,
-        "height": 110
-      },
+      "itemSize": {"width": 70, "height": 110},
       "paddingX": 5,
       "paddingY": 5,
       "hideTitle": false,
@@ -274,45 +268,17 @@
       "marginLeft": 0,
       "showNumber": false,
       "marginRight": 0,
-      "videoConfig": {
-        "autoPlay": false,
-        "isSoundOn": false,
-        "enableLoop": false,
-        "aspectRatio": 1.7777777777777777,
-        "showLoading": false,
-        "tapToPlayPause": true,
-        "backgroundColor": null,
-        "holdToPlayPause": false,
-        "showVolumeButton": true,
-        "enableTimeIndicator": true,
-        "showFullScreenButton": true,
-        "doubleTapToFullScreen": false
-      },
       "intervalTime": 3,
       "isHorizontal": false,
       "marginBottom": 0,
-      "numberPadding": {
-        "end": 0,
-        "top": 15,
-        "start": 0,
-        "bottom": 0
-      },
+      "numberPadding": {"end": 0, "top": 15, "start": 0, "bottom": 0},
       "showIndicator": true,
       "showBackground": false,
-      "numberAlignment": {
-        "value": "topEnd"
-      },
+      "numberAlignment": {"value": "topEnd"},
       "enableBackground": false,
-      "indicatorPadding": {
-        "end": 0,
-        "top": 0,
-        "start": 0,
-        "bottom": 12
-      },
+      "indicatorPadding": {"end": 0, "top": 0, "start": 0, "bottom": 12},
       "pageIndicatorType": "line",
-      "indicatorAlignment": {
-        "value": "bottomCenter"
-      },
+      "indicatorAlignment": {"value": "bottomCenter"},
       "parallaxImageRatio": 1.2
     },
     {
@@ -430,25 +396,11 @@
       "marginRight": 0,
       "isHorizontal": false,
       "marginBottom": 0,
-      "numberPadding": {
-        "end": 0,
-        "top": 15,
-        "start": 0,
-        "bottom": 0
-      },
-      "numberAlignment": {
-        "value": "topEnd"
-      },
+      "numberPadding": {"end": 0, "top": 15, "start": 0, "bottom": 0},
+      "numberAlignment": {"value": "topEnd"},
       "enableBackground": false,
-      "indicatorPadding": {
-        "end": 0,
-        "top": 0,
-        "start": 0,
-        "bottom": 12
-      },
-      "indicatorAlignment": {
-        "value": "bottomCenter"
-      },
+      "indicatorPadding": {"end": 0, "top": 0, "start": 0, "bottom": 12},
+      "indicatorAlignment": {"value": "bottomCenter"},
       "parallaxImageRatio": 1.2
     },
     {
@@ -479,25 +431,11 @@
       "marginRight": 0,
       "isHorizontal": false,
       "marginBottom": 0,
-      "numberPadding": {
-        "end": 0,
-        "top": 15,
-        "start": 0,
-        "bottom": 0
-      },
-      "numberAlignment": {
-        "value": "topEnd"
-      },
+      "numberPadding": {"end": 0, "top": 15, "start": 0, "bottom": 0},
+      "numberAlignment": {"value": "topEnd"},
       "enableBackground": false,
-      "indicatorPadding": {
-        "end": 0,
-        "top": 0,
-        "start": 0,
-        "bottom": 12
-      },
-      "indicatorAlignment": {
-        "value": "bottomCenter"
-      },
+      "indicatorPadding": {"end": 0, "top": 0, "start": 0, "bottom": 12},
+      "indicatorAlignment": {"value": "bottomCenter"},
       "parallaxImageRatio": 1.2
     },
     {
@@ -568,25 +506,11 @@
       "marginRight": 0,
       "isHorizontal": false,
       "marginBottom": 0,
-      "numberPadding": {
-        "end": 0,
-        "top": 15,
-        "start": 0,
-        "bottom": 0
-      },
-      "numberAlignment": {
-        "value": "topEnd"
-      },
+      "numberPadding": {"end": 0, "top": 15, "start": 0, "bottom": 0},
+      "numberAlignment": {"value": "topEnd"},
       "enableBackground": false,
-      "indicatorPadding": {
-        "end": 0,
-        "top": 0,
-        "start": 0,
-        "bottom": 12
-      },
-      "indicatorAlignment": {
-        "value": "bottomCenter"
-      },
+      "indicatorPadding": {"end": 0, "top": 0, "start": 0, "bottom": 12},
+      "indicatorAlignment": {"value": "bottomCenter"},
       "parallaxImageRatio": 1.2
     },
     {
@@ -617,25 +541,11 @@
       "marginRight": 0,
       "isHorizontal": false,
       "marginBottom": 0,
-      "numberPadding": {
-        "end": 0,
-        "top": 15,
-        "start": 0,
-        "bottom": 0
-      },
-      "numberAlignment": {
-        "value": "topEnd"
-      },
+      "numberPadding": {"end": 0, "top": 15, "start": 0, "bottom": 0},
+      "numberAlignment": {"value": "topEnd"},
       "enableBackground": false,
-      "indicatorPadding": {
-        "end": 0,
-        "top": 0,
-        "start": 0,
-        "bottom": 12
-      },
-      "indicatorAlignment": {
-        "value": "bottomCenter"
-      },
+      "indicatorPadding": {"end": 0, "top": 0, "start": 0, "bottom": 12},
+      "indicatorAlignment": {"value": "bottomCenter"},
       "parallaxImageRatio": 1.2
     },
     {
@@ -706,25 +616,11 @@
       "marginRight": 0,
       "isHorizontal": false,
       "marginBottom": 0,
-      "numberPadding": {
-        "end": 0,
-        "top": 15,
-        "start": 0,
-        "bottom": 0
-      },
-      "numberAlignment": {
-        "value": "topEnd"
-      },
+      "numberPadding": {"end": 0, "top": 15, "start": 0, "bottom": 0},
+      "numberAlignment": {"value": "topEnd"},
       "enableBackground": false,
-      "indicatorPadding": {
-        "end": 0,
-        "top": 0,
-        "start": 0,
-        "bottom": 12
-      },
-      "indicatorAlignment": {
-        "value": "bottomCenter"
-      },
+      "indicatorPadding": {"end": 0, "top": 0, "start": 0, "bottom": 12},
+      "indicatorAlignment": {"value": "bottomCenter"},
       "parallaxImageRatio": 1.2
     },
     {
@@ -755,25 +651,11 @@
       "marginRight": 0,
       "isHorizontal": false,
       "marginBottom": 0,
-      "numberPadding": {
-        "end": 0,
-        "top": 15,
-        "start": 0,
-        "bottom": 0
-      },
-      "numberAlignment": {
-        "value": "topEnd"
-      },
+      "numberPadding": {"end": 0, "top": 15, "start": 0, "bottom": 0},
+      "numberAlignment": {"value": "topEnd"},
       "enableBackground": false,
-      "indicatorPadding": {
-        "end": 0,
-        "top": 0,
-        "start": 0,
-        "bottom": 12
-      },
-      "indicatorAlignment": {
-        "value": "bottomCenter"
-      },
+      "indicatorPadding": {"end": 0, "top": 0, "start": 0, "bottom": 12},
+      "indicatorAlignment": {"value": "bottomCenter"},
       "parallaxImageRatio": 1.2
     },
     {
@@ -894,25 +776,11 @@
       "marginRight": 0,
       "isHorizontal": false,
       "marginBottom": 0,
-      "numberPadding": {
-        "end": 0,
-        "top": 15,
-        "start": 0,
-        "bottom": 0
-      },
-      "numberAlignment": {
-        "value": "topEnd"
-      },
+      "numberPadding": {"end": 0, "top": 15, "start": 0, "bottom": 0},
+      "numberAlignment": {"value": "topEnd"},
       "enableBackground": false,
-      "indicatorPadding": {
-        "end": 0,
-        "top": 0,
-        "start": 0,
-        "bottom": 12
-      },
-      "indicatorAlignment": {
-        "value": "bottomCenter"
-      },
+      "indicatorPadding": {"end": 0, "top": 0, "start": 0, "bottom": 12},
+      "indicatorAlignment": {"value": "bottomCenter"},
       "parallaxImageRatio": 1.2
     },
     {
@@ -1133,127 +1001,36 @@
       "showSearch": false,
       "categoryLayout": "card",
       "remapCategories": [
-        {
-          "name": "عروض",
-          "category": "gid://shopify/Collection/432734929215"
-        },
-        {
-          "name": "العناية بالبشرة",
-          "category": "gid://shopify/Collection/446243471679"
-        },
-        {
-          "name": " العطور العالمية",
-          "category": "gid://shopify/Collection/286160617652"
-        },
-        {
-          "name": "العطور العربية",
-          "category": "gid://shopify/Collection/287379030196"
-        },
-        {
-          "name": "العطور الكلاسيكية",
-          "image": null,
-          "category": "gid://shopify/Collection/286335336628"
-        },
-        {
-          "name": "عطور النيش",
-          "category": "gid://shopify/Collection/286335303860"
-        },
-        {
-          "name": "أطقم الهدايا",
-          "category": "gid://shopify/Collection/286649581748"
-        },
-        {
-          "name": "البخور",
-          "category": "gid://shopify/Collection/286335369396"
-        },
-        {
-          "name": "المباخر",
-          "category": "gid://shopify/Collection/286335402164"
-        },
-        {
-          "name": "العود",
-          "category": "gid://shopify/Collection/286649614516"
-        },
-        {
-          "name": "عطور الشعر",
-          "category": "gid://shopify/Collection/286649385140"
-        },
-        {
-          "name": "عطور الجو",
-          "category": "gid://shopify/Collection/286649516212"
-        },
-        {
-          "name": "ساعات",
-          "category": "gid://shopify/Collection/446375559487"
-        },
-        {
-          "name": "بصريات",
-          "category": "gid://shopify/Collection/446378934591"
-        },
-        {
-          "parent": "gid://shopify/Collection/446243471679",
-          "category": "gid://shopify/Collection/477185737023"
-        },
-        {
-          "parent": "gid://shopify/Collection/446243471679",
-          "category": "gid://shopify/Collection/477187440959"
-        },
-        {
-          "parent": "gid://shopify/Collection/446243471679",
-          "category": "gid://shopify/Collection/477187506495"
-        },
-        {
-          "parent": "gid://shopify/Collection/446243471679",
-          "category": "gid://shopify/Collection/477188423999"
-        },
-        {
-          "parent": "gid://shopify/Collection/446243471679",
-          "category": "gid://shopify/Collection/477188620607"
-        },
-        {
-          "parent": "gid://shopify/Collection/446243471679",
-          "category": "gid://shopify/Collection/477188653375"
-        },
-        {
-          "parent": "gid://shopify/Collection/446243471679",
-          "category": "gid://shopify/Collection/477187375423"
-        },
-        {
-          "parent": "gid://shopify/Collection/446243471679",
-          "category": "gid://shopify/Collection/477189603647"
-        },
-        {
-          "parent": "gid://shopify/Collection/477189603647",
-          "category": "gid://shopify/Collection/477188587839"
-        },
-        {
-          "parent": "gid://shopify/Collection/477189603647",
-          "category": "gid://shopify/Collection/477187309887"
-        },
-        {
-          "parent": "gid://shopify/Collection/446243471679",
-          "category": "gid://shopify/Collection/477188522303"
-        },
-        {
-          "parent": "gid://shopify/Collection/446243471679",
-          "category": "gid://shopify/Collection/477188030783"
-        },
-        {
-          "parent": "gid://shopify/Collection/446243471679",
-          "category": "gid://shopify/Collection/477189275967"
-        },
-        {
-          "parent": "gid://shopify/Collection/446243471679",
-          "category": "gid://shopify/Collection/477187408191"
-        },
-        {
-          "parent": "gid://shopify/Collection/446243471679",
-          "category": "gid://shopify/Collection/477188489535"
-        },
-        {
-          "parent": "gid://shopify/Collection/446243471679",
-          "category": "gid://shopify/Collection/477187998015"
-        }
+        {"name": "عروض", "category": "gid://shopify/Collection/432734929215"},
+        {"name": "العناية بالبشرة", "category": "gid://shopify/Collection/446243471679"},
+        {"name": " العطور العالمية", "category": "gid://shopify/Collection/286160617652"},
+        {"name": "العطور العربية", "category": "gid://shopify/Collection/287379030196"},
+        {"name": "العطور الكلاسيكية", "image": null, "category": "gid://shopify/Collection/286335336628"},
+        {"name": "عطور النيش", "category": "gid://shopify/Collection/286335303860"},
+        {"name": "أطقم الهدايا", "category": "gid://shopify/Collection/286649581748"},
+        {"name": "البخور", "category": "gid://shopify/Collection/286335369396"},
+        {"name": "المباخر", "category": "gid://shopify/Collection/286335402164"},
+        {"name": "العود", "category": "gid://shopify/Collection/286649614516"},
+        {"name": "عطور الشعر", "category": "gid://shopify/Collection/286649385140"},
+        {"name": "عطور الجو", "category": "gid://shopify/Collection/286649516212"},
+        {"name": "ساعات", "category": "gid://shopify/Collection/446375559487"},
+        {"name": "بصريات", "category": "gid://shopify/Collection/446378934591"},
+        {"parent": "gid://shopify/Collection/446243471679", "category": "gid://shopify/Collection/477185737023"},
+        {"parent": "gid://shopify/Collection/446243471679", "category": "gid://shopify/Collection/477187440959"},
+        {"parent": "gid://shopify/Collection/446243471679", "category": "gid://shopify/Collection/477187506495"},
+        {"parent": "gid://shopify/Collection/446243471679", "category": "gid://shopify/Collection/477188423999"},
+        {"parent": "gid://shopify/Collection/446243471679", "category": "gid://shopify/Collection/477188620607"},
+        {"parent": "gid://shopify/Collection/446243471679", "category": "gid://shopify/Collection/477188653375"},
+        {"parent": "gid://shopify/Collection/446243471679", "category": "gid://shopify/Collection/477187375423"},
+        {"parent": "gid://shopify/Collection/446243471679", "category": "gid://shopify/Collection/477189603647"},
+        {"parent": "gid://shopify/Collection/477189603647", "category": "gid://shopify/Collection/477188587839"},
+        {"parent": "gid://shopify/Collection/477189603647", "category": "gid://shopify/Collection/477187309887"},
+        {"parent": "gid://shopify/Collection/446243471679", "category": "gid://shopify/Collection/477188522303"},
+        {"parent": "gid://shopify/Collection/446243471679", "category": "gid://shopify/Collection/477188030783"},
+        {"parent": "gid://shopify/Collection/446243471679", "category": "gid://shopify/Collection/477189275967"},
+        {"parent": "gid://shopify/Collection/446243471679", "category": "gid://shopify/Collection/477187408191"},
+        {"parent": "gid://shopify/Collection/446243471679", "category": "gid://shopify/Collection/477188489535"},
+        {"parent": "gid://shopify/Collection/446243471679", "category": "gid://shopify/Collection/477187998015"}
       ],
       "showOriginalColor": false,
       "parallaxImageRatio": 1.2
@@ -1263,172 +1040,11 @@
       "pos": 300,
       "icon": "tag",
       "label": "الماركات",
-      "layout": "dynamic",
+      "layout": "brands",
       "defaultTab": false,
       "fontFamily": "CupertinoIcons",
       "fullscreen": false,
-      "showOriginalColor": false,
-      "configs": {
-        "HorizonLayout": [
-          {
-            "font": "Cairo",
-            "type": "static",
-            "title": "الماركات",
-            "height": 55,
-            "layout": "header_search",
-            "radius": 12,
-            "rotate": [],
-            "fontSize": 16,
-            "minWidth": 0,
-            "alignment": "centerLeft",
-            "marginTop": 15,
-            "textColor": "ff444544",
-            "fontWeight": 0,
-            "isSafeArea": false,
-            "marginLeft": 15,
-            "paddingTop": 0,
-            "showSearch": true,
-            "borderInput": true,
-            "marginRight": 15,
-            "paddingLeft": 10,
-            "textOpacity": 1,
-            "marginBottom": 10,
-            "paddingRight": 15,
-            "preview_data": false,
-            "paddingBottom": 0,
-            "backgroundColor": "32ffffff",
-            "usePrimaryColor": true,
-            "enableBackground": false,
-            "backgroundGradientColor": ["#fffce4ec", "#ffe0f7fa"]
-          },
-          {
-            "line": false,
-            "size": 1,
-            "type": "image",
-            "wrap": true,
-            "horizontalItem": false,
-            "columns": 3,
-            "layout": "category",
-            "useSort": true,
-            "marginLeft": 10,
-            "marginRight": 10,
-            "marginTop": 10,
-            "marginBottom": 10,
-            "separateWidth": 24,
-            "gradientStyle": false,
-            "items": [
-              {
-                "image": "https://i.imgur.com/psNA3WO.jpeg",
-                "title": "للرجال",
-                "onSale": false,
-                "category": "gid://shopify/Collection/287271583924",
-                "showText": true,
-                "isFeatured": false,
-                "productType": false,
-                "originalColor": true,
-                "showDescription": false,
-                "keepDefaultTitle": false
-              },
-              {
-                "image": "https://i.imgur.com/hQXkPhU.jpeg",
-                "title": "للنساء",
-                "onSale": false,
-                "category": "gid://shopify/Collection/287271616692",
-                "showText": true,
-                "isFeatured": false,
-                "productType": false,
-                "originalColor": true,
-                "showDescription": false,
-                "keepDefaultTitle": false
-              },
-              {
-                "image": "https://i.imgur.com/5Rb15pE.png",
-                "title": "برفيوم",
-                "category": "gid://shopify/Collection/427303502143",
-                "showText": true,
-                "originalColor": true,
-                "showDescription": false,
-                "keepDefaultTitle": false
-              },
-              {
-                "image": "https://i.imgur.com/77WKasB.jpeg",
-                "title": "تواليت",
-                "onSale": false,
-                "category": "gid://shopify/Collection/427303436607",
-                "showText": true,
-                "isFeatured": false,
-                "productType": false,
-                "originalColor": true,
-                "showDescription": false,
-                "keepDefaultTitle": false
-              },
-              {
-                "image": "https://i.imgur.com/cayzkmT.jpeg",
-                "title": "كالونيا",
-                "onSale": false,
-                "category": "gid://shopify/Collection/427303108927",
-                "showText": true,
-                "isFeatured": false,
-                "productType": false,
-                "originalColor": true,
-                "showDescription": false,
-                "keepDefaultTitle": false
-              },
-              {
-                "image": "https://i.imgur.com/f3UqPEO.jpeg",
-                "title": "بصريات",
-                "onSale": false,
-                "category": "gid://shopify/Collection/446378934591",
-                "showText": true,
-                "isFeatured": false,
-                "productType": false,
-                "originalColor": true,
-                "showDescription": false,
-                "keepDefaultTitle": false
-              },
-              {
-                "image": "https://i.imgur.com/36RLCzp.png",
-                "title": "البشرة",
-                "category": "gid://shopify/Collection/446243471679",
-                "showText": true,
-                "originalColor": true,
-                "showDescription": false,
-                "keepDefaultTitle": false
-              },
-              {
-                "image": "https://i.imgur.com/lf9gpQj.jpeg",
-                "title": "ساعات",
-                "category": "gid://shopify/Collection/446375559487",
-                "showText": true,
-                "originalColor": true,
-                "showDescription": false,
-                "keepDefaultTitle": false
-              }
-            ],
-            "border": 0.6,
-            "radius": 150,
-            "marginX": 0,
-            "marginY": 0,
-            "spacing": 12,
-            "itemSize": {"width": 70, "height": 110},
-            "paddingX": 5,
-            "paddingY": 5,
-            "hideTitle": false,
-            "imageBoxFit": "fitWidth",
-            "enableBorder": false,
-            "imageSpacing": 5,
-            "noBackground": false,
-            "preview_data": false,
-            "labelFontSize": 12,
-            "separateWidth": 24,
-            "textAlignment": "topCenter",
-            "imageBorderColor": "ff7cccbf",
-            "imageBorderStyle": "dot",
-            "imageBorderWidth": 1.5,
-            "showShortDescription": true
-          }
-        ]
-      }
+      "showOriginalColor": false
     },
     {
       "key": "uBoHRSpBve",
@@ -1577,18 +1193,7 @@
       "defaultTab": false,
       "fullscreen": false,
       "showOriginalColor": false,
-      "settings": [
-        "order",
-        "notifications",
-        "language",
-        "currencies",
-        "wishlist",
-        "darkTheme",
-        "rating",
-        "privacy",
-        "about",
-        "biometrics"
-      ],
+      "settings": ["order", "notifications", "language", "currencies", "wishlist", "darkTheme", "rating", "privacy", "about", "biometrics"],
       "background": "https://i.imgur.com/mPKDtr6.jpeg",
       "subGeneralSetting": {
         "about": {
@@ -1626,38 +1231,14 @@
     "key": "1zqcllcjaj",
     "logo": "https://i.imgur.com/isRDy5i.png",
     "items": [
-      {
-        "show": true,
-        "type": "home"
-      },
-      {
-        "show": false,
-        "type": "blog"
-      },
-      {
-        "show": true,
-        "type": "categories"
-      },
-      {
-        "show": true,
-        "type": "cart"
-      },
-      {
-        "show": true,
-        "type": "profile"
-      },
-      {
-        "show": true,
-        "type": "login"
-      },
-      {
-        "show": false,
-        "type": "category"
-      },
-      {
-        "show": false,
-        "type": "web"
-      }
+      {"show": true, "type": "home"},
+      {"show": false, "type": "blog"},
+      {"show": true, "type": "categories"},
+      {"show": true, "type": "cart"},
+      {"show": true, "type": "profile"},
+      {"show": true, "type": "login"},
+      {"show": false, "type": "category"},
+      {"show": false, "type": "web"}
     ],
     "enable": true,
     "filter": 0,
